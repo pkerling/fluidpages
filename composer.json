@@ -26,7 +26,7 @@
   "minimum-stability": "dev",
   "support": {
     "irc": "irc://irc.freenode.org/fedext",
-    "issues": "https://github.com/FluidTYPO3/fluidcontent/issues"
+    "issues": "https://github.com/FluidTYPO3/fluidpages/issues"
   },
   "suggest": {
     "fluidtypo3/fluidcontent": "Gives the ability to render custom content elements with pure fluid.",
